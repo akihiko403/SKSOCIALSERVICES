@@ -1,0 +1,6 @@
+body {
+    background-image: url('images/backgrounds/2.jpg');
+    background-size: cover; /* Adjusts the size to cover the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-attachment: fixed; /* Keeps the background image fixed when scrolling */
+}
